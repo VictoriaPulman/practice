@@ -27,6 +27,9 @@
     * [x] `pip install matplotlib`
     * [x] `pip install scipy`
     * [x] `pip install plotly`
+    * [x] `pip install --upgrade nbformat`
+    
+
   * *(Подсказка: проверить установку можно командой `pip show <имя>` или `pip list`)*
 
 ## 🔄 Как запустить КОПИЮ папки (Новый проект на этом шаблоне)
