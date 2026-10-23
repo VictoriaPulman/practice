@@ -20,6 +20,8 @@
   * *Команда:* `python -m pip install --upgrade pip`
 - [x] Установить библиотеки из файла зависимостей или по отдельности:
   * *Если файл есть:* `pip install -r requirements.txt`
+    *Обновить файл:* `pip freeze > requirements.txt`
+
   * *Если файла нет, ставим по одной:*
     * [x] `pip install pandas`
     * [x] `pip install numpy`
@@ -28,6 +30,7 @@
     * [x] `pip install scipy`
     * [x] `pip install plotly`
     * [x] `pip install --upgrade nbformat`
+    * [x] `pip install statsmodels`    
     
 
   * *(Подсказка: проверить установку можно командой `pip show <имя>` или `pip list`)*
