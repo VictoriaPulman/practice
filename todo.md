@@ -20,8 +20,9 @@
   * *Команда:* `python -m pip install --upgrade pip`
 - [x] Установить библиотеки из файла зависимостей или по отдельности:
   * *Если файл есть:* `pip install -r requirements.txt`
-    *Обновить файл:* `pip freeze > requirements.txt`
 
+    <!-- Автор этого листа: Пульман Виктория https://github.com/VictoriaPulman/. Копирование запрещено. -->
+    
   * *Если файла нет, ставим по одной:*
     * [x] `pip install pandas`
     * [x] `pip install numpy`
